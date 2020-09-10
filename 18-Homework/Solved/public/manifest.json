@@ -1,0 +1,20 @@
+{
+    "short_name": "Budget-Tracker",
+    "name": "Budget-Tracker",
+    "icons": [
+        {
+            "src": "/Users/rudi/Documents/GitHub/18-WEEK_HOMEWORK-BCS/18-Homework/Solved/public/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/Users/rudi/Documents/GitHub/18-WEEK_HOMEWORK-BCS/18-Homework/Solved/public/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#ffffff"
+}
